@@ -1,5 +1,7 @@
-my_collect(empty_array)
+my_collect(array)
 i = 0
+new_array = []
+
 
 end
 
